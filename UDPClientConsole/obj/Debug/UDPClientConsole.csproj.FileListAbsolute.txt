@@ -1,0 +1,7 @@
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.exe.config
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\obj\Debug\UDPClientConsole.csproj.CoreCompileInputs.cache
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\obj\Debug\UDPClientConsole.exe
+d:\tabe\documents\visual studio 2017\REPOS\UDPClientConsole\UDPClientConsole\obj\Debug\UDPClientConsole.pdb
+D:\TABE\Documents\Visual Studio 2017\REPOS\UDPClientConsole\UDPClientConsole\obj\Debug\UDPClientConsole.csprojAssemblyReference.cache
